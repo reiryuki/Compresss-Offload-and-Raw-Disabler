@@ -8,6 +8,10 @@
 
 ## Changelog
 
+v0.6
+- Support NoMount metamodule
+- Move _uninstall.log to /data/adb/logs/
+
 v0.5
 - Change module name
 - Disables FAST playback
@@ -26,18 +30,18 @@ v0.1
 - Initial release
 
 ## Requirements
-- Magisk or Kitsune Mask or KernelSU or Apatch installed
+Magisk or Kitsune Mask or KernelSU or Apatch installed
 
 ## Installation Guide & Download Link
-- Install this module https://devuploads.com/icp2wo9fdnh5 via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
+- Install this module via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
 - This is also an audio mod so, you need to install AML Magisk Module https://t.me/ryukinotes/34 if using any other else audio mod module
 - Reboot
 
 ## Optionals
-- Global: https://t.me/ryukinotes/35
+Global: https://t.me/ryukinotes/35
 
 ## Troubleshootings
-- Global: https://t.me/ryukinotes/34
+Global: https://t.me/ryukinotes/34
 
 ## Support & Bug Report
 - https://t.me/ryukinotes/54
@@ -50,6 +54,6 @@ v0.1
 - You can contribute ideas about this Magisk Module here: https://t.me/androidappsportdevelopment
 
 ## Sponsors
-- https://t.me/ryukinotes/25
+https://t.me/ryukinotes/25
 
 
